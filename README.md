@@ -1,5 +1,7 @@
 # Open source practice
 
+# More doctest practice [![](https://github.com/nakalim/functional-python/workflows/tests/badge.s    vg)](https://github.com/nakalim/functional-python/actions?query=workflow%3Atests)
+
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 
 <img src=img/meme.jpg width=300px />
